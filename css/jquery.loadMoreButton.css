@@ -1,0 +1,14 @@
+.container{
+    width: 60%;
+    margin:0 auto;
+    text-align: center;
+}
+
+#ajaxloader{
+    margin:20px auto 20px;
+}
+
+.btn{
+    width:50%;
+    margin:20px auto 20px;
+}
